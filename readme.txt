@@ -5,3 +5,4 @@
 推送到远程github
 添加一个dev
 实验 & feature1
+采用--no-ff非删除分支方式进行合并
